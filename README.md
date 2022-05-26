@@ -16,7 +16,7 @@
 > Always remember to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Telegram Bot: </h4>    
-<p><a href="https://t.me/TmcStringGenBot"><img src="https://img.shields.io/badge/Generate%20On%20Bot-blueviolet?style=for-the-badge&logo=Telegram" width="350""/></a></p>
+<p><a "><img src="https://img.shields.io/badge/Generate%20On%20Bot-blueviolet?style=for-the-badge&logo=Telegram" width="350""/></a></p>
 
 </details>
 
@@ -49,7 +49,7 @@ Give us a star and fork our repo
   
 ### Noob Developers 
   
-<a href="https://t.me/tera_baap_katil"><img src="https://img.shields.io/badge/KATIL-ReD.svg?style=for-the-badge&logo=Python"></a> 
+<a href="@Tosifop"><img src="https://img.shields.io/badge/KATIL-ReD.svg?style=for-the-badge&logo=Python"></a> 
   
   
 
