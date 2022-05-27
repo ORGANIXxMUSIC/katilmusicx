@@ -19,7 +19,7 @@ SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5364565556").split()))
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/bhumiharsaurabh/katilmusicx",
+    "https://github.com/ORGANIXxMUSIC/katilmusicx",
 )
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
